@@ -8,4 +8,4 @@ Plain HTML, CSS, and JavaScript with the supplied MP4 video and poster image. Op
 
 GitHub Pages publishes the root of the `main` branch. Push changes to `main` to update the site.
 
-This is a fictional mock course, not real training or certification.
+This is a fictional course, not real training or certification.
